@@ -2,14 +2,15 @@
 
 [![DOI](https://zenodo.org/badge/487622885.svg)](https://zenodo.org/badge/latestdoi/487622885)
 
-The scripts in this repository were written by Jill Walker Rettberg
+The scripts in this repository were written by Jill Walker Rettberg. As of 1 May 2022, the following scripts are included:
+- machinevisionscripts.R
 
 This repository gathers scripts for analysing data collected in the database [Machine Vision in Art, Games and Narratives](https://machine-vision.no) as part of the [ERC-funded project Machine Vision in Everyday Life: Playful Interactions with Visual Technologies in Digital Art, Games, Narratives and Social Media](https://www.uib.no/en/machinevision/).
 
-## How to download the data
+## How to download the dataset
 The data that the scripts work with can be downloaded from the DataverseNO repository:
 
-Rettberg, Jill Walker; Kronman, Linda; Solberg, Ragnhild; Gunderson, Marianne; Bjørklund, Stein Magne; Stokkedal, Linn Heidi; de Seta, Gabriele; Jacob, Kurdin; Markham, Annette, 2022, "A Dataset Documenting Representations of Machine Vision Technologies in Artworks, Games and Narratives", https://doi.org/10.18710/2G0XKN, DataverseNO, V1
+Rettberg, Jill Walker; Kronman, Linda; Solberg, Ragnhild; Gunderson, Marianne; Bjørklund, Stein Magne; Stokkedal, Linn Heidi; de Seta, Gabriele; Jacob, Kurdin; Markham, Annette, 2022, "A Dataset Documenting Representations of Machine Vision Technologies in Artworks, Games and Narratives", [https://doi.org/10.18710/2G0XKN](https://doi.org/10.18710/2G0XKN), DataverseNO, V1
 
 ## What the dataset is about
 The dataset captures cultural attitudes towards machine vision technologies as they are expressed in art, games and narratives. It includes records of 500 creative works (including 77 digital games, 191 digital artworks and 236 movies, novels and other narratives) that use or represent machine vision technologies like facial recognition, deepfakes, and augmented reality.
