@@ -1,5 +1,7 @@
 # Scripts for analysing data from "A Dataset Documenting Representations of Machine Vision Technologies in Artworks, Games and Narratives"
 
+[![DOI](https://zenodo.org/badge/487622885.svg)](https://zenodo.org/badge/latestdoi/487622885)
+
 The scripts in this repository were written by Jill Walker Rettberg
 
 This repository gathers scripts for analysing data collected in the database [Machine Vision in Art, Games and Narratives](https://machine-vision.no) as part of the [ERC-funded project Machine Vision in Everyday Life: Playful Interactions with Visual Technologies in Digital Art, Games, Narratives and Social Media](https://www.uib.no/en/machinevision/).
