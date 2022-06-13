@@ -5,6 +5,8 @@ by Jill Walker Rettberg
 
 This repository gathers scripts for analysing data collected in the database [Machine Vision in Art, Games and Narratives](https://machine-vision.no) as part of the [ERC-funded project Machine Vision in Everyday Life: Playful Interactions with Visual Technologies in Digital Art, Games, Narratives and Social Media](https://www.uib.no/en/machinevision/).
 
+![Graphical abstract describing dataset](data_paper_graphical_abstract_web_size.jpg)
+
 As of 1 May 2022, the following files are included:
 - machinevisionscripts.R
 - machinevision_plots_by_year_country.R
