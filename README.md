@@ -1,13 +1,15 @@
 # Scripts for analysing data from "A Dataset Documenting Representations of Machine Vision Technologies in Artworks, Games and Narratives"
+by Jill Walker Rettberg
 
 [![DOI](https://zenodo.org/badge/487622885.svg)](https://zenodo.org/badge/latestdoi/487622885)
 
-The scripts in this repository were written by Jill Walker Rettberg. As of 1 May 2022, the following scripts are included:
+This repository gathers scripts for analysing data collected in the database [Machine Vision in Art, Games and Narratives](https://machine-vision.no) as part of the [ERC-funded project Machine Vision in Everyday Life: Playful Interactions with Visual Technologies in Digital Art, Games, Narratives and Social Media](https://www.uib.no/en/machinevision/).
+
+As of 1 May 2022, the following files are included:
 - machinevisionscripts.R
 - machinevision_plots_by_year_country.R
-See below for details.
 
-This repository gathers scripts for analysing data collected in the database [Machine Vision in Art, Games and Narratives](https://machine-vision.no) as part of the [ERC-funded project Machine Vision in Everyday Life: Playful Interactions with Visual Technologies in Digital Art, Games, Narratives and Social Media](https://www.uib.no/en/machinevision/).
+See below for descriptions of each file.
 
 ## How to download the dataset
 The data that the scripts work with can be downloaded from the DataverseNO repository:
@@ -19,7 +21,7 @@ The dataset captures cultural attitudes towards machine vision technologies as t
 
 ## Descriptions of each file
 
-## Contents of machinevisionscripts.R
+### Contents of machinevisionscripts.R
 This is the basic set of scripts included with the dataset. It   includes code to do the following:
 - Import creativeworks.csv
 - Import characters.csv
@@ -30,7 +32,7 @@ This is the basic set of scripts included with the dataset. It   includes code t
 - Create a contingency table showing number of times an action is performed by a character, a technology or an entity with a column indicating whether the action is active or passive.
 - Transform worksinfo.csv into a wide table with a row for each work and columns for WorkID, Work_WikidataID, WorkTitle, Genre, Year, Creator, Country, URL and IsSciFi. Because many works have multiple creators, multiple countries and even mulitple URLs, the code creates a new column for each creator
 
-## Contents of machinevision_plots_by_year_country.R
+### Contents of machinevision_plots_by_year_country.R
 - Import creativeworks.csv
 - Plot a line graph showing works by year of publication and genre
 - Plot the geographic distribution of works 
